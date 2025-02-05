@@ -1,5 +1,5 @@
 public class Collaborate {
     public static void main(String[] args) {
-        System.out.print("이재준");
+        System.out.print("커밋 컨벤션");
     }
 }
